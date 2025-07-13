@@ -1,0 +1,20 @@
+{
+  "repository_name": "name of your warehouse",
+  "repository_icon": "https://yoursite.com/repo-icon.png",
+  "packages": [
+    {
+      "name": "package name",
+      "version": "v1.0.0",
+      "description": "Detailed description of the package and its features",
+      "icon_url": "https://yoursite.com/icons/package-icon.png",
+      "dylib": "https://yoursite.com/downloads/package.dylib",
+      "selection": "package section",
+      "size": "File Size",
+      "author": "Developer Name",
+      "screenshots": [
+        "https://yoursite.com/screenshots/screenshot1.png",
+        "https://yoursite.com/screenshots/screenshot2.png"
+      ]
+    }
+  ]
+}
